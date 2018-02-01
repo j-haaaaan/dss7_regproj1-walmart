@@ -8,7 +8,7 @@ Abstract
 > -  Predict how sales of weather-sensitive products are affected by snow and rain.
 > 
 > - **train data : 4617600 rows, 4 columns**
-> - **weather data : 20517 rows, 20 columns
+> - **weather data : 20517 rows, 20 columns**
 > - **test data : 526917 rows, 3 columns**
 > 
 > [프로젝트 평가]
