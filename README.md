@@ -1,4 +1,4 @@
-Regression Project ; Toyota Corolla Price Prediction
+Regression Project ; Walmart Sales Prediction
 ===================
 
 Abstract
